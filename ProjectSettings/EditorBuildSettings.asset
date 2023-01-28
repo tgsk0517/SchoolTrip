@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Users/Tomita/Title.unity
+    guid: e20d26ca22a528e47a5a21a277758af1
+  - enabled: 1
+    path: Assets/Users/Tomita/Game.unity
+    guid: 92d634d3500d6354e85ed26944ecb4f0
   m_configObjects: {}
