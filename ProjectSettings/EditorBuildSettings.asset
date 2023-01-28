@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Users/YWS/takePhoto.unity
+    guid: 07f3a4fa76db9a04f80b6459bb6f3085
+  - enabled: 1
+    path: Assets/Users/YWS/album.unity
+    guid: 422523c89620b424a821a027f1945588
   m_configObjects: {}
