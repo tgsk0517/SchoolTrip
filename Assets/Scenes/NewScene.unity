@@ -2832,7 +2832,7 @@ MonoBehaviour:
   tessEdgeLengthRate: 1
   tessPhongStrengthRate: 1
   tessExtrusionAmountRate: 1
-  physicsEngine: 0
+  physicsEngine: 1
   bulletPhysics:
     joinLocalWorld: 1
     useOriginalScale: 1
@@ -3263,7 +3263,7 @@ MonoBehaviour:
     restitution: -1
     friction: -1
   animList: []
-  editorViewPage: 4
+  editorViewPage: 5
   editorViewMorphBits: 15
   editorViewRigidBodies: 0
   editorViewMorphNameType: 0
